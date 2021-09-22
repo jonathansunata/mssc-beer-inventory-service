@@ -1,0 +1,9 @@
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BeerInventory.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\bootstrap\BeerInvntoryBootstrap.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\BeerInventoryApplication.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BaseEntity.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\model\BeerInventoryDto.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\DateMapper.java
+C:\Users\jonat\Documents\Maven\Microservices (Spring Guru)\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
